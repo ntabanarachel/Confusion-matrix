@@ -42,6 +42,9 @@ Accuracy= TP+TN/TP+TN+FP+FN
 
 F1-Score
 
+
+# finally: I am goingto  build a logistic regression model using a heart attack dataset to predict if a patient is at risk of a heart attack
+
 • It is the harmonic mean of Recall and Precision. It is useful when you need to take both Precision and Recall into account. F1-SCORE = 2PRECISIONRECALL/PRECISION+RECALL
 
 Confusion Matrix
